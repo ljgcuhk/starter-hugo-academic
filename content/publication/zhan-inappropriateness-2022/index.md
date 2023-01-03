@@ -1,0 +1,67 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Inappropriateness of space-for-time and variability-for-time approaches to
+  infer future dryland productivity changes
+subtitle: ''
+summary: ''
+authors:
+- Weiwei Zhan
+- Xu Lian
+- Jiangong Liu
+- Pierre Gentine
+tags: []
+categories: []
+date: '2022-10-01'
+lastmod: 2023-01-03T16:27:21-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-01-03T21:27:21.343162Z'
+publication_types:
+- '2'
+abstract: Drylands are among the most susceptible ecosystems to global climate change.
+  It has been suggested that a future surface drying trend would largely reduce gross
+  primary productivity (GPP) in drylands, given that water is the dominant factor
+  controlling the spatial distributions (i.e., space-for-time analogy) and inter-annual
+  fluctuations (i.e., variability-for-time analogy) of dryland GPP. However, whether
+  these approaches using spatial and inter-annual diagnostics are valid to infer long-term
+  dryland GPP remains unknown. In this study, we evaluate whether space-for-time and
+  variability-for-time approaches, which are based on the empirical scaling between
+  GPP and dryness, are able to capture future changes in dryland GPP as simulated
+  by 18 Earth system models (ESMs). Using observational data during 1958–2014, we
+  identify a strong coupling between dryland GPP and the annual aridity index (AI,
+  the ratio of precipitation to potential evapotranspiration) over both spatial and
+  inter-annual scales. This GPP-AI scaling is used to predict future GPP changes throughout
+  the 21st Century based on the future AI changes projected by ESMs. The space-for-time,
+  and variability-for-time approaches predict an overall decrease of dryland GPP by
+  -23.66 ± 10.93 (mean ±1 standard deviation) and -3.86 ± 2.22 gC m −2 yr −1 , respectively,
+  in response to future surface drying, however, the ESM projections exhibit a strong
+  dryland GPP increase (+81.42 ± 36.82 gC m −2 yr −1 ). This inconsistency is because
+  the space- and variability-based approaches, which rely on the spatial or short-term
+  GPP-AI relationships, cannot capture the slowly-evolving but key determinant of
+  dryland GPP changes over multi-decadal or longer timescales, which, in ESMs, is
+  the ecosystem physiological response to rising CO 2 . Our study questions the validity
+  of “the drier the less productive” hypothesis rooted in the space-for-time and variability-for-time
+  theories, and the implementation of such theories to constrain future ecosystem
+  changes.
+publication: '*Frontiers in Environmental Science*'
+doi: 10.3389/fenvs.2022.1010269
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/fenvs.2022.1010269/full
+---
